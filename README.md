@@ -1,4 +1,3 @@
 # SeleniumBDD
 
-Este es un repositorio de Automation usando Java intellij idea, Maven, TestNG y ExtendReport para reporteria
-se creo un paquete llamado browser_manager para manejar los distintos navedaores todo bajos los patrones Page object y Page factory
+This is an Automation repository using Java intellij idea, Maven, TestNG and ExtendReport for reporting. A package called browser_manager was created to manage the different browsers, all under the Page object and Page factory patterns.
